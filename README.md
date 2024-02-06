@@ -2,10 +2,10 @@
 Recognise the Text within a Speach or Image
 
 # Required Libraries for the Program
-pip install SpeechRecognition
-pip install pyttsx3
-pip install googletrans==4.0.0-rc1
-pip install pillow
+- pip install SpeechRecognition
+- pip install pyttsx3
+- pip install googletrans==4.0.0-rc1
+- pip install pillow
 
 
 This program allows you to perform the following tasks:
